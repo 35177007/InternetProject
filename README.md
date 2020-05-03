@@ -1,5 +1,5 @@
-##基于socketserver的简单ftp程序
-###实现功能：
+基于socketserver的简单ftp程序
+实现功能：
  * 登陆注册
  * 下载/删除服务器文件
  * 上传文件
@@ -11,7 +11,7 @@
  * 日志（待实现）
  * 注：尚无法在目录间移动，无法指定文件上传位置
 
-###启动路径：
+启动路径：
 - ftp_server/core/user_manager
 - ftp_server/bin/server
 - ftp_client/bin/client
